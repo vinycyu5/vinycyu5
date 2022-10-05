@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vinycyus<p>
-- 👀 I’m interested in  aprender programar e ensinar o que aprender.    
-- 🌱 I’m currently learning  a limguagem  python
-- 💞️ I’m looking to collaborate on  com o aprendizado de novos alunos de programação.    
+- 👋 Hi, I’m Vinicius
+- 👀 I’m interested in learn to program and teach what to learn.    
+- 🌱 I’m currently learning  a python language.
+- 💞️ I’m looking to collaborate on  with the learning of new programming students.  
   - 📫 How to reach me : e-mail fonsecavinicius280@gmail.com
 
 <!---
